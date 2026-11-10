@@ -1,0 +1,10 @@
+{
+  "name": "justin-and-ashley",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
